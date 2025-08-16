@@ -44,5 +44,4 @@ Example:
 - Pthreads for multithreading  
 - ncurses for terminal-based rendering  
 
-## Author
-Developed by Aasritha
+
